@@ -1,7 +1,6 @@
 /*
 This program is written by Komal Gulati
 for project in Delhi Public School Bangalore
-For any queries please contact komalgulati1@gmail.com
 Purpose of game to capture black squares as much as possible
 Avoid crossing opponents color it has negative scoring
 */
